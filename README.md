@@ -5,12 +5,12 @@
 
 # LATIHAN 1
 # CODE
-[!](1.png)
+![](1.png)
 # OUTPUT
-[!](2.png)
+![](2.png)
 
 # LATIHAN 2
 # CODE
-[!](3.png)
+![](3.png)
 # OUTPUT
-[!](4.png)
+![](4.png)
