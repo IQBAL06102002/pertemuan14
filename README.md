@@ -11,6 +11,7 @@
 
 # LATIHAN 2
 # CODE
-![](3.png)
+FROM ![](3.png)
+TO ![](5.png)
 # OUTPUT
 ![](4.png)
